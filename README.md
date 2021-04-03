@@ -2,7 +2,8 @@
 I am a Computer Engineering student at Duzce University. Welcome to my profile!
 
 
-Other accounts:www.<any website>.com/omercantasdemir
+Other accounts: "any website".com/omercantasdemir
+
 <!--
 **omercantasdemir/omercantasdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

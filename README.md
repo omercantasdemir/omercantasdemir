@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 I am a Computer Engineering student at Duzce University. Welcome to my profile!
 
 <!--

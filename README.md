@@ -1,5 +1,9 @@
 ### Hello there 👋
-I am a Computer Engineering student at Duzce University. Welcome to my profile!
+
+I am a Junior-Level FullStack Engineer and here are some projects I develop.
+
+
+
 
 
 <!---

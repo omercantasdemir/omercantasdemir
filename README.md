@@ -1,67 +1,41 @@
-### Hello there 👋
+<h1 align="center">Hi, I'm Ömercan 👋</h1>
 
-
-<h1 align="center">👋 Hello there, I'm Ömercan!</h1>
 <p align="center">
-  <b>Junior Fullstack Engineer</b> — crafting apps with <b>React</b> ⚛️ & <b>Spring Boot</b> ☕  
+  <b>Software Engineer</b> · <b>React</b> & <b>Spring Boot</b> by day ·
+  music & embedded tinkering by night 🎸
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/omercantasdemir"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:omercantasdemir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 Projects
-> Here are some things I’ve built, broken, and rebuilt again 😎  
-*(Pinned repos below show the cool stuff)*
+### 🧑‍💻 About me
+
+- 🏢 **Software Developer at TTG International** (since Dec 2024), building fullstack apps with React, Spring Boot and PostgreSQL
+- 🎓 **M.Sc. in Computer Engineering** at İstanbul Ticaret University (2025–2027); B.Sc. from Düzce University
+- 🎸 Guitarist, so a lot of my side projects end up on a pedalboard
+- 📡 Like building small networked things with ESP8266 and Raspberry Pi
 
 ---
 
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" />
+### 🧰 Tech
+
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="ESP8266" src="https://img.shields.io/badge/ESP8266-E7352C?logo=espressif&logoColor=white" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=omercantasdemir&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=omercantasdemir&theme=radical" />
-</p>
-
----
-
-### 💬 About Me
-- 💻 I enjoy working on fullstack systems and embedded IoT stuff  
-- ⚙️ Currently exploring more with ESP8266 and networked devices  
-- ☕ Coffee + Code = Perfect combo  
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/omercantasdemir)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omercantasdemir&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
-
-
-
-
-<!---
-**omercantasdemir/omercantasdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><i>Always happy to talk about backend systems, guitar gear, or small embedded builds.</i></p>
